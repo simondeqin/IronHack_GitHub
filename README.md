@@ -4,7 +4,7 @@ Use for pre-work and projects
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-*[Your Name]*
+*[Katrina]*
 
 *[Your Cohort, Campus & Date]*
 
